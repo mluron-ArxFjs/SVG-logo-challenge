@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0",
+    "lb": "^0.0.1",
+    "lib": "^5.0.1",
+    "yest": "^0.0.1"
+  },
+  "scripts": {
+    "test": "jest ./test/svg.test.js"
+  }
+}
